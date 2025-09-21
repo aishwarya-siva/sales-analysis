@@ -24,22 +24,7 @@ A comprehensive data analysis project demonstrating end-to-end business intellig
 - KPI Monitoring: Executive dashboard with key performance indicators
 - Data Integration: Live connections to SQL Server views
 - Business Insights: Quarterly trends, geographic analysis, profit optimization
-
-
-## Project Structure
-Superstore_Analytics_Portfolio/
-├── SQL_Scripts/
-│   ├── 01_Data_Exploration.sql         # Initial data discovery
-│   ├── 02_Data_Cleaning.sql            # Data preparation & views
-│   ├── 03_Business_Analysis.sql        # Core business intelligence
-│   ├── 04_Intermediate_Analysis.sql    # Advanced analytics (RFM, growth)
-│   ├── 05_Advanced_Analysis.sql        # Customer churn, optimization
-│   └── 06_Excel_Integration.sql        # Dashboard-ready views
-├── Dashboard/
-│   ├── Superstore_Dashboard.xlsx       # Interactive Excel dashboard
-│   └── Dashboard_Screenshots/          # Visual portfolio pieces
-└── Documentation/
-    ├── README.md                       # This file
+  
 
 ## Key Business Insights
 ### Performance Highlights
